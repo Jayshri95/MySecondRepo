@@ -1,3 +1,4 @@
 # Hello_World
 My first repo in Github
-Hi Everyone
+
+I have made some changes in this file to understand what exactly commit does
